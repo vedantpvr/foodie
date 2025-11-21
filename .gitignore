@@ -10,3 +10,7 @@ serviceAccountKey.json
 # image 
 image.png
 image-1.png
+
+# ignore
+package.json
+package-lock.json
