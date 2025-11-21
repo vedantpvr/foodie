@@ -2,7 +2,7 @@
 
 A complete Data Engineering pipeline that generates synthetic recipe data, creates a user interaction simulation, ingests it into a Firebase NoSQL database, and performs an ETL process to extract normalized insights.
 
-![alt text](image.png)
+![image](image.png)
 
 ---
 
@@ -62,7 +62,8 @@ Destination: Normalized CSV (Relational, 4 distinct tables).
 * **Ingredients** - Specific items required for a dish - One-to-Many (Recipe → Ingredients)
 * **Steps** - Sequential cooking instructions. - One-to-Many (Recipe → Steps)
 * **Interactions** - User events (Views, Likes) timestamped.- Linked by Recipe ID
-![alt text](image-1.png)
+![ERD](/docs/ERD.png)
+[View on dbdiagram.io] (https://dbdiagram.io/d/69204741228c5bbc1ae7221b)
 
 ---
 
@@ -76,7 +77,8 @@ Destination: Normalized CSV (Relational, 4 distinct tables).
 * Python: Required for generate_charts.py (with pandas and matplotlib).
                     pip install pandas matplotlib
 
-* Firebase Project: A generic Firestore project.
+* Firebase Project: A generic Firestore project. 
+                    👉 [See setup documentation](implementation.md)
 
 * Credentials: Place your Firebase serviceAccountKey.json in the root directory.
 
