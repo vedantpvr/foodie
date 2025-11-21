@@ -2,7 +2,7 @@
 
 A complete Data Engineering pipeline that generates synthetic recipe data, creates a user interaction simulation, ingests it into a Firebase NoSQL database, and performs an ETL process to extract normalized insights.
 
-![image](image.png)
+
 
 ---
 
@@ -17,31 +17,6 @@ A complete Data Engineering pipeline that generates synthetic recipe data, creat
 
 
 ---
-
-## 📁 Project Structure
-
-
-├── seeding_data.js           # Seeds database (Puran Poli) + Synthetic data
-├── export_etl.js            # Extracts data to CSVs
-├── validate_rule.js         # Quality assurance script
-├── analysis.js             # Generates insights summary
-├── generate_charts.py       # Python script for visualization
-├── output/
-│   ├── recipe.csv
-│   ├── ingredients.csv
-│   ├── steps.csv
-│   ├── interactions.csv
-│   ├── analytics_summary.txt
-│   ├── validation_report.csv
-│   └── charts/
-│       ├── top_ingredients.png
-│       ├── prep_time_histogram.png
-│       └── prep_vs_likes_scatter.png
-├── docs/
-│   ├── ERD.png
-│   └── data_dictionary.md
-├── package.json
-└── README.md 
 
 ## 1. Overview
 This project implements a complete Data Engineering pipeline that generates synthetic recipe data, loads it into a Firebase NoSQL database, extracts it into a normalized relational schema (CSV), and performs data quality validation and analytics.
