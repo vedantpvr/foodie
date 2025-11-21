@@ -11,6 +11,43 @@ We mimic a real-world data flow:
 4.  **Analyze:** Generate insights from the clean data.
 
 ---
+## Project Structure 
+
+```text
+FOODIE/
+├── docs/
+│   ├── data_dictionary.md
+│   └── ERD.png
+├── node_modules/
+├── output/
+│   ├── charts/
+│   │   ├── users/
+│   │   ├── prep_time_histogram.png
+│   │   ├── prep_vs_likes_scatter.png
+│   │   ├── README_charts.txt
+│   │   ├── top_ingredients_preview.csv
+│   │   └── top_ingredients.png
+│   ├── analytics_summary.txt
+│   ├── ingredients.csv
+│   ├── interactions.csv
+│   ├── recipe.csv
+│   ├── steps.csv
+│   ├── users.csv
+│   ├── validation_invalid.csv
+│   ├── validation_report.csv
+│   ├── validation_report.json
+│   ├── validation_valid_summary.csv
+│   └── Vedant_Raut_Data.pdf
+├── .gitignore
+├── analysis.js
+├── export_etl.js
+├── generate_charts.py
+├── image-1.png
+├── image.png
+├── implementation.md
+├── README.md
+└── seeding_data.js
+```
 
 ##  Part 1: Prerequisites & Firebase Setup (Start Here!)
 
@@ -37,7 +74,7 @@ This allows the Node.js scripts to talk to the cloud.
 5.  **Move this file** into the root folder of this project (where `package.json` is).
 
 ### Step 4: Set Up Local System 
-1. Run this in CMD:       **npm install -g firebase-tools**
+1. Run this in CMD:    **npm install -g firebase-tools**
 2. Verify installation:   **firebase --version**
 3. Log in to Firebase: **firebase login**
 4. Initialize Firebase in your project : **cd your-project-folder**
