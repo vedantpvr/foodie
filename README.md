@@ -15,7 +15,7 @@ A complete Data Engineering pipeline that generates synthetic recipe data, creat
 * **Optional chart generation with Python-** Python integration for generating statistical charts.
 * **Fully modular and reproducible pipeline-** Fully modular design allows the pipeline to be reset and re-run easily.
 
-
+👉 [See project structure](implementation.md)
 ---
 
 ## 1. Overview
@@ -84,10 +84,10 @@ TThe export_etl.js script handles the core engineering complexity:
     * Sanitization: Escapes characters to prevent CSV breakage (handling commas/quotes within text fields).
     * Normalization: Splits a single JSON object into 3 logical tables (Recipe, Ingredients, Steps).
 * **Load:** Writes synchronous updates to the local file system (output/).
-
+                
 ---
 
-## 5. Insights Summary
+## 6. Insights Summary
 Based on the analysis of the generated dataset:
 
 * **📊 Content Difficulty Distributional Analysis:**

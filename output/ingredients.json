@@ -1,0 +1,101 @@
+[
+  {
+    "recipe_id": "recipe_puran_poli",
+    "ingredient_id": "ing1",
+    "name": "chana dal",
+    "quantity": 1,
+    "unit": "cup",
+    "notes": "soaked 2–3 hours",
+    "order": 1
+  },
+  {
+    "recipe_id": "recipe_puran_poli",
+    "ingredient_id": "ing10",
+    "name": "ghee",
+    "quantity": 4,
+    "unit": "tbsp",
+    "notes": "for roasting polis",
+    "order": 10
+  },
+  {
+    "recipe_id": "recipe_puran_poli",
+    "ingredient_id": "ing11",
+    "name": "water",
+    "quantity": 1,
+    "unit": "cup",
+    "notes": "as required for dough",
+    "order": 11
+  },
+  {
+    "recipe_id": "recipe_puran_poli",
+    "ingredient_id": "ing2",
+    "name": "jaggery",
+    "quantity": 1,
+    "unit": "cup",
+    "notes": "grated",
+    "order": 2
+  },
+  {
+    "recipe_id": "recipe_puran_poli",
+    "ingredient_id": "ing3",
+    "name": "cardamom powder",
+    "quantity": 0.5,
+    "unit": "tsp",
+    "notes": "",
+    "order": 3
+  },
+  {
+    "recipe_id": "recipe_puran_poli",
+    "ingredient_id": "ing4",
+    "name": "nutmeg powder",
+    "quantity": 0.25,
+    "unit": "tsp",
+    "notes": "optional",
+    "order": 4
+  },
+  {
+    "recipe_id": "recipe_puran_poli",
+    "ingredient_id": "ing5",
+    "name": "wheat flour",
+    "quantity": 2,
+    "unit": "cups",
+    "notes": "",
+    "order": 5
+  },
+  {
+    "recipe_id": "recipe_puran_poli",
+    "ingredient_id": "ing6",
+    "name": "maida (optional)",
+    "quantity": 0.5,
+    "unit": "cup",
+    "notes": "",
+    "order": 6
+  },
+  {
+    "recipe_id": "recipe_puran_poli",
+    "ingredient_id": "ing7",
+    "name": "turmeric powder",
+    "quantity": 0.25,
+    "unit": "tsp",
+    "notes": "",
+    "order": 7
+  },
+  {
+    "recipe_id": "recipe_puran_poli",
+    "ingredient_id": "ing8",
+    "name": "salt",
+    "quantity": 0.25,
+    "unit": "tsp",
+    "notes": "",
+    "order": 8
+  },
+  {
+    "recipe_id": "recipe_puran_poli",
+    "ingredient_id": "ing9",
+    "name": "oil",
+    "quantity": 2,
+    "unit": "tbsp",
+    "notes": "for dough",
+    "order": 9
+  }
+]

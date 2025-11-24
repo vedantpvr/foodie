@@ -8,4 +8,3 @@ Recipe Charts:
 User Charts:
 - users_by_country.png
 - top_users_by_interactions.png
-- interactions_per_day.png (if timestamps available)

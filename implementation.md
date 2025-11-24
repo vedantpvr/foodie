@@ -29,15 +29,19 @@ FOODIE/
 │   │   └── top_ingredients.png
 │   ├── analytics_summary.txt
 │   ├── ingredients.csv
+│   ├── ingredients.json
 │   ├── interactions.csv
+│   ├── interactions.json
 │   ├── recipe.csv
+│   ├── recipe.json
 │   ├── steps.csv
+│   ├── steps.json
 │   ├── users.csv
+│   ├── users.json
 │   ├── validation_invalid.csv
 │   ├── validation_report.csv
 │   ├── validation_report.json
 │   ├── validation_valid_summary.csv
-│   └── Vedant_Raut_Data.pdf
 ├── .gitignore
 ├── analysis.js
 ├── export_etl.js

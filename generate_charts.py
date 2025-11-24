@@ -259,3 +259,49 @@ readme.append("- top_users_by_interactions.png")
 
 print("\nAll charts saved to:", CHART_DIR)
 print("User charts saved to:", USER_CHART_DIR)
+# ========================================================================
+# EXTRA CHART TYPES - ADVANCED VISUALIZATIONS
+# ========================================================================
+
+# ------------------------------
+# CHART 4 — TOP INGREDIENTS HORIZONTAL BAR
+# ------------------------------
+fig4, ax4 = plt.subplots(figsize=(10,6))
+top_ing.sort_values("count").plot(kind="barh", x="ingredient", y="count", ax=ax4)
+ax4.set_title("Top Ingredients (Horizontal View)")
+ax4.set_xlabel("Count")
+ax4.set_ylabel("Ingredient")
+plt.tight_layout()
+fig4.savefig(CHART_DIR / "top_ingredients_horizontal.png")
+plt.close(fig4)
+
+
+# ------------------------------
+# CHART 5 — DIFFICULTY PIE CHART
+# ------------------------------
+if "difficulty" in recipe_df.columns:
+    diff_counts = recipe_df["difficulty"].fillna("unknown").value_counts()
+
+    fig5, ax5 = plt.subplots(figsize=(6,6))
+    ax5.pie(diff_counts.values, labels=diff_counts.index, autopct="%1.1f%%")
+    ax5.set_title("Recipe Difficulty Distribution")
+    plt.tight_layout()
+    fig5.savefig(CHART_DIR / "difficulty_distribution_pie.png")
+    plt.close(fig5)
+
+
+# ------------------------------
+# CHART 6 — PREP TIME BY DIFFICULTY BOXPLOT
+# ------------------------------
+if "difficulty" in recipe_df.columns:
+    rec2 = recipe_df.copy()
+    rec2["prep_time_min"] = pd.to_numeric(rec2["prep_time_min"], errors="coerce")
+
+    fig6, ax6 = plt.subplots(figsize=(8,6))
+    rec2.boxplot(column="prep_time_min", by="difficulty", ax=ax6)
+    ax6.set_title("Prep Time by Difficulty")
+    ax6.set_ylabel("Prep Time (min)")
+    plt.suptitle("")
+    plt.tight_layout()
+    fig6.savefig(CHART_DIR / "prep_time_by_difficulty_boxplot.png")
+    plt.close(fig6)

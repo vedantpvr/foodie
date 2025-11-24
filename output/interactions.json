@@ -1,0 +1,3002 @@
+[
+  {
+    "interaction_id": "int_0",
+    "user_id": "user8",
+    "recipe_id": "recipe_fish_curry",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.140Z"
+  },
+  {
+    "interaction_id": "int_1",
+    "user_id": "user10",
+    "recipe_id": "recipe_gulab_jamun",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.141Z"
+  },
+  {
+    "interaction_id": "int_10",
+    "user_id": "user3",
+    "recipe_id": "recipe_paneer_butter_masala",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.142Z"
+  },
+  {
+    "interaction_id": "int_100",
+    "user_id": "user3",
+    "recipe_id": "recipe_upma",
+    "type": "rating",
+    "rating": 5,
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_101",
+    "user_id": "user4",
+    "recipe_id": "recipe_poha",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_102",
+    "user_id": "user8",
+    "recipe_id": "recipe_matar_paneer",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_103",
+    "user_id": "user4",
+    "recipe_id": "recipe_dal_tadka",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_104",
+    "user_id": "user2",
+    "recipe_id": "recipe_fish_curry",
+    "type": "rating",
+    "rating": 5,
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_105",
+    "user_id": "user8",
+    "recipe_id": "recipe_aloo_paratha",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_106",
+    "user_id": "user6",
+    "recipe_id": "recipe_vada_pav",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_107",
+    "user_id": "user9",
+    "recipe_id": "recipe_fish_curry",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_108",
+    "user_id": "user8",
+    "recipe_id": "recipe_chicken_biryani",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_109",
+    "user_id": "user8",
+    "recipe_id": "recipe_vada_pav",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_11",
+    "user_id": "user9",
+    "recipe_id": "recipe_kheer",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.142Z"
+  },
+  {
+    "interaction_id": "int_110",
+    "user_id": "user1",
+    "recipe_id": "recipe_jeera_rice",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_111",
+    "user_id": "user5",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "rating",
+    "rating": 5,
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_112",
+    "user_id": "user10",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_113",
+    "user_id": "user2",
+    "recipe_id": "recipe_idli_sambhar",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_114",
+    "user_id": "user1",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_115",
+    "user_id": "user2",
+    "recipe_id": "recipe_idli_sambhar",
+    "type": "rating",
+    "rating": 5,
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_116",
+    "user_id": "user3",
+    "recipe_id": "recipe_dal_tadka",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_117",
+    "user_id": "user4",
+    "recipe_id": "recipe_jeera_rice",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_118",
+    "user_id": "user9",
+    "recipe_id": "recipe_palak_paneer",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_119",
+    "user_id": "user6",
+    "recipe_id": "recipe_fish_curry",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_12",
+    "user_id": "user1",
+    "recipe_id": "recipe_paneer_butter_masala",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.142Z"
+  },
+  {
+    "interaction_id": "int_120",
+    "user_id": "user5",
+    "recipe_id": "recipe_idli_sambhar",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_121",
+    "user_id": "user5",
+    "recipe_id": "recipe_kheer",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_122",
+    "user_id": "user5",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_123",
+    "user_id": "user9",
+    "recipe_id": "recipe_egg_curry",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_124",
+    "user_id": "user6",
+    "recipe_id": "recipe_fish_curry",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_125",
+    "user_id": "user1",
+    "recipe_id": "recipe_poha",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_126",
+    "user_id": "user9",
+    "recipe_id": "recipe_puran_poli",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_127",
+    "user_id": "user4",
+    "recipe_id": "recipe_gulab_jamun",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.147Z"
+  },
+  {
+    "interaction_id": "int_128",
+    "user_id": "user10",
+    "recipe_id": "recipe_kheer",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_129",
+    "user_id": "user2",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_13",
+    "user_id": "user6",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": 5,
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.142Z"
+  },
+  {
+    "interaction_id": "int_130",
+    "user_id": "user2",
+    "recipe_id": "recipe_kheer",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_131",
+    "user_id": "user1",
+    "recipe_id": "recipe_egg_curry",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_132",
+    "user_id": "user1",
+    "recipe_id": "recipe_masala_dosa",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_133",
+    "user_id": "user3",
+    "recipe_id": "recipe_masala_dosa",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_134",
+    "user_id": "user10",
+    "recipe_id": "recipe_misal_pav",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_135",
+    "user_id": "user8",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_136",
+    "user_id": "user7",
+    "recipe_id": "recipe_masala_dosa",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_137",
+    "user_id": "user5",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_138",
+    "user_id": "user1",
+    "recipe_id": "recipe_vada_pav",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_139",
+    "user_id": "user4",
+    "recipe_id": "recipe_puran_poli",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_14",
+    "user_id": "user10",
+    "recipe_id": "recipe_idli_sambhar",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.142Z"
+  },
+  {
+    "interaction_id": "int_140",
+    "user_id": "user3",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_141",
+    "user_id": "user1",
+    "recipe_id": "recipe_egg_curry",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_142",
+    "user_id": "user4",
+    "recipe_id": "recipe_matar_paneer",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_143",
+    "user_id": "user8",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_144",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_vada_pav",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_145",
+    "user_id": "user1",
+    "recipe_id": "recipe_shrikhand",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_146",
+    "user_id": "user3",
+    "recipe_id": "recipe_matar_paneer",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_147",
+    "user_id": "user10",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_148",
+    "user_id": "user6",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_149",
+    "user_id": "user7",
+    "recipe_id": "recipe_misal_pav",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_15",
+    "user_id": "user6",
+    "recipe_id": "recipe_sabudana_khichdi",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.142Z"
+  },
+  {
+    "interaction_id": "int_150",
+    "user_id": "user4",
+    "recipe_id": "recipe_misal_pav",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_151",
+    "user_id": "user2",
+    "recipe_id": "recipe_kheer",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.148Z"
+  },
+  {
+    "interaction_id": "int_152",
+    "user_id": "user8",
+    "recipe_id": "recipe_shrikhand",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_153",
+    "user_id": "user9",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_154",
+    "user_id": "user2",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_155",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_156",
+    "user_id": "user7",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_157",
+    "user_id": "user5",
+    "recipe_id": "recipe_shrikhand",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_158",
+    "user_id": "user4",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_159",
+    "user_id": "user9",
+    "recipe_id": "recipe_palak_paneer",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_16",
+    "user_id": "user1",
+    "recipe_id": "recipe_puran_poli",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.142Z"
+  },
+  {
+    "interaction_id": "int_160",
+    "user_id": "user6",
+    "recipe_id": "recipe_egg_curry",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_161",
+    "user_id": "user10",
+    "recipe_id": "recipe_palak_paneer",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_162",
+    "user_id": "user8",
+    "recipe_id": "recipe_chicken_biryani",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_163",
+    "user_id": "user8",
+    "recipe_id": "recipe_shrikhand",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_164",
+    "user_id": "user6",
+    "recipe_id": "recipe_puran_poli",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_165",
+    "user_id": "user4",
+    "recipe_id": "recipe_misal_pav",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_166",
+    "user_id": "user6",
+    "recipe_id": "recipe_idli_sambhar",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_167",
+    "user_id": "user3",
+    "recipe_id": "recipe_kheer",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_168",
+    "user_id": "user1",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_169",
+    "user_id": "user2",
+    "recipe_id": "recipe_fish_curry",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_17",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_palak_paneer",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.142Z"
+  },
+  {
+    "interaction_id": "int_170",
+    "user_id": "user4",
+    "recipe_id": "recipe_palak_paneer",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_171",
+    "user_id": "user6",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.149Z"
+  },
+  {
+    "interaction_id": "int_172",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_upma",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_173",
+    "user_id": "user10",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_174",
+    "user_id": "user10",
+    "recipe_id": "recipe_vada_pav",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_175",
+    "user_id": "user7",
+    "recipe_id": "recipe_aloo_paratha",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_176",
+    "user_id": "user7",
+    "recipe_id": "recipe_palak_paneer",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_177",
+    "user_id": "user4",
+    "recipe_id": "recipe_chicken_biryani",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_178",
+    "user_id": "user8",
+    "recipe_id": "recipe_misal_pav",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_179",
+    "user_id": "user1",
+    "recipe_id": "recipe_jeera_rice",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_18",
+    "user_id": "user2",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.142Z"
+  },
+  {
+    "interaction_id": "int_180",
+    "user_id": "user1",
+    "recipe_id": "recipe_idli_sambhar",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_181",
+    "user_id": "user6",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_182",
+    "user_id": "user7",
+    "recipe_id": "recipe_gulab_jamun",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_183",
+    "user_id": "user1",
+    "recipe_id": "recipe_vada_pav",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_184",
+    "user_id": "user5",
+    "recipe_id": "recipe_masala_dosa",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_185",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_186",
+    "user_id": "user3",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_187",
+    "user_id": "user9",
+    "recipe_id": "recipe_shrikhand",
+    "type": "rating",
+    "rating": 5,
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_188",
+    "user_id": "user1",
+    "recipe_id": "recipe_vada_pav",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_189",
+    "user_id": "user5",
+    "recipe_id": "recipe_fish_curry",
+    "type": "rating",
+    "rating": 5,
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_19",
+    "user_id": "user4",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.142Z"
+  },
+  {
+    "interaction_id": "int_190",
+    "user_id": "user4",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_191",
+    "user_id": "user7",
+    "recipe_id": "recipe_poha",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_192",
+    "user_id": "user9",
+    "recipe_id": "recipe_misal_pav",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_193",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_jeera_rice",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.150Z"
+  },
+  {
+    "interaction_id": "int_194",
+    "user_id": "user3",
+    "recipe_id": "recipe_misal_pav",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_195",
+    "user_id": "user4",
+    "recipe_id": "recipe_fish_curry",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_196",
+    "user_id": "user4",
+    "recipe_id": "recipe_kheer",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_197",
+    "user_id": "user3",
+    "recipe_id": "recipe_egg_curry",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_198",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_egg_curry",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_199",
+    "user_id": "user4",
+    "recipe_id": "recipe_fish_curry",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_2",
+    "user_id": "user8",
+    "recipe_id": "recipe_vada_pav",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.141Z"
+  },
+  {
+    "interaction_id": "int_20",
+    "user_id": "user7",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.142Z"
+  },
+  {
+    "interaction_id": "int_200",
+    "user_id": "user7",
+    "recipe_id": "recipe_matar_paneer",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_201",
+    "user_id": "user4",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_202",
+    "user_id": "user2",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_203",
+    "user_id": "user1",
+    "recipe_id": "recipe_misal_pav",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_204",
+    "user_id": "user2",
+    "recipe_id": "recipe_shrikhand",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_205",
+    "user_id": "user8",
+    "recipe_id": "recipe_idli_sambhar",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_206",
+    "user_id": "user2",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": 5,
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_207",
+    "user_id": "user8",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_208",
+    "user_id": "user7",
+    "recipe_id": "recipe_matar_paneer",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_209",
+    "user_id": "user8",
+    "recipe_id": "recipe_palak_paneer",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_21",
+    "user_id": "user10",
+    "recipe_id": "recipe_fish_curry",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.142Z"
+  },
+  {
+    "interaction_id": "int_210",
+    "user_id": "user5",
+    "recipe_id": "recipe_puran_poli",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_211",
+    "user_id": "user6",
+    "recipe_id": "recipe_kheer",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_212",
+    "user_id": "user10",
+    "recipe_id": "recipe_kheer",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_213",
+    "user_id": "user9",
+    "recipe_id": "recipe_idli_sambhar",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_214",
+    "user_id": "user5",
+    "recipe_id": "recipe_upma",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_215",
+    "user_id": "user7",
+    "recipe_id": "recipe_upma",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_216",
+    "user_id": "user3",
+    "recipe_id": "recipe_vada_pav",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_217",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_egg_curry",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_218",
+    "user_id": "user9",
+    "recipe_id": "recipe_aloo_paratha",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.151Z"
+  },
+  {
+    "interaction_id": "int_219",
+    "user_id": "user1",
+    "recipe_id": "recipe_puran_poli",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_22",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_paneer_butter_masala",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.142Z"
+  },
+  {
+    "interaction_id": "int_220",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_jeera_rice",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_221",
+    "user_id": "user8",
+    "recipe_id": "recipe_kheer",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_222",
+    "user_id": "user4",
+    "recipe_id": "recipe_jeera_rice",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_223",
+    "user_id": "user7",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_224",
+    "user_id": "user1",
+    "recipe_id": "recipe_idli_sambhar",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_225",
+    "user_id": "user9",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_226",
+    "user_id": "user2",
+    "recipe_id": "recipe_vada_pav",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_227",
+    "user_id": "user1",
+    "recipe_id": "recipe_chicken_biryani",
+    "type": "rating",
+    "rating": 5,
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_228",
+    "user_id": "user9",
+    "recipe_id": "recipe_egg_curry",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_229",
+    "user_id": "user7",
+    "recipe_id": "recipe_masala_dosa",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_23",
+    "user_id": "user2",
+    "recipe_id": "recipe_sabudana_khichdi",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.142Z"
+  },
+  {
+    "interaction_id": "int_230",
+    "user_id": "user6",
+    "recipe_id": "recipe_gulab_jamun",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_231",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_232",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_matar_paneer",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_233",
+    "user_id": "user5",
+    "recipe_id": "recipe_dal_tadka",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_234",
+    "user_id": "user3",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_235",
+    "user_id": "user10",
+    "recipe_id": "recipe_shrikhand",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_236",
+    "user_id": "user4",
+    "recipe_id": "recipe_aloo_paratha",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_237",
+    "user_id": "user3",
+    "recipe_id": "recipe_gulab_jamun",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_238",
+    "user_id": "user6",
+    "recipe_id": "recipe_paneer_butter_masala",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_239",
+    "user_id": "user5",
+    "recipe_id": "recipe_gulab_jamun",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_24",
+    "user_id": "user4",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_240",
+    "user_id": "user4",
+    "recipe_id": "recipe_dal_tadka",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_241",
+    "user_id": "user5",
+    "recipe_id": "recipe_egg_curry",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_242",
+    "user_id": "user5",
+    "recipe_id": "recipe_dal_tadka",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_243",
+    "user_id": "user1",
+    "recipe_id": "recipe_matar_paneer",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.152Z"
+  },
+  {
+    "interaction_id": "int_244",
+    "user_id": "user3",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_245",
+    "user_id": "user1",
+    "recipe_id": "recipe_puran_poli",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_246",
+    "user_id": "user3",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_247",
+    "user_id": "user3",
+    "recipe_id": "recipe_puran_poli",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_248",
+    "user_id": "user1",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_249",
+    "user_id": "user7",
+    "recipe_id": "recipe_matar_paneer",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_25",
+    "user_id": "user7",
+    "recipe_id": "recipe_vada_pav",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_250",
+    "user_id": "user8",
+    "recipe_id": "recipe_vada_pav",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_251",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_252",
+    "user_id": "user3",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_253",
+    "user_id": "user1",
+    "recipe_id": "recipe_gulab_jamun",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_254",
+    "user_id": "user3",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_255",
+    "user_id": "user9",
+    "recipe_id": "recipe_shrikhand",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_256",
+    "user_id": "user5",
+    "recipe_id": "recipe_gulab_jamun",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_257",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_258",
+    "user_id": "user6",
+    "recipe_id": "recipe_chicken_biryani",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_259",
+    "user_id": "user3",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_26",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_260",
+    "user_id": "user4",
+    "recipe_id": "recipe_matar_paneer",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_261",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_262",
+    "user_id": "user9",
+    "recipe_id": "recipe_paneer_butter_masala",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_263",
+    "user_id": "user7",
+    "recipe_id": "recipe_paneer_butter_masala",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_264",
+    "user_id": "user2",
+    "recipe_id": "recipe_matar_paneer",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_265",
+    "user_id": "user10",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_266",
+    "user_id": "user5",
+    "recipe_id": "recipe_poha",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_267",
+    "user_id": "user9",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_268",
+    "user_id": "user3",
+    "recipe_id": "recipe_fish_curry",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.153Z"
+  },
+  {
+    "interaction_id": "int_269",
+    "user_id": "user6",
+    "recipe_id": "recipe_sabudana_khichdi",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_27",
+    "user_id": "user2",
+    "recipe_id": "recipe_shrikhand",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_270",
+    "user_id": "user6",
+    "recipe_id": "recipe_vada_pav",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_271",
+    "user_id": "user4",
+    "recipe_id": "recipe_matar_paneer",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_272",
+    "user_id": "user3",
+    "recipe_id": "recipe_shrikhand",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_273",
+    "user_id": "user6",
+    "recipe_id": "recipe_upma",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_274",
+    "user_id": "user2",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_275",
+    "user_id": "user5",
+    "recipe_id": "recipe_paneer_butter_masala",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_276",
+    "user_id": "user7",
+    "recipe_id": "recipe_sabudana_khichdi",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_277",
+    "user_id": "user6",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_278",
+    "user_id": "user2",
+    "recipe_id": "recipe_poha",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_279",
+    "user_id": "user10",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_28",
+    "user_id": "user7",
+    "recipe_id": "recipe_fish_curry",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_280",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_chicken_biryani",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_281",
+    "user_id": "user4",
+    "recipe_id": "recipe_misal_pav",
+    "type": "rating",
+    "rating": 5,
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_282",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_upma",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_283",
+    "user_id": "user9",
+    "recipe_id": "recipe_puran_poli",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_284",
+    "user_id": "user3",
+    "recipe_id": "recipe_gulab_jamun",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_285",
+    "user_id": "user5",
+    "recipe_id": "recipe_idli_sambhar",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_286",
+    "user_id": "user9",
+    "recipe_id": "recipe_misal_pav",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_287",
+    "user_id": "user1",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_288",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_fish_curry",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_289",
+    "user_id": "user9",
+    "recipe_id": "recipe_vada_pav",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_29",
+    "user_id": "user6",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_290",
+    "user_id": "user6",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_291",
+    "user_id": "user5",
+    "recipe_id": "recipe_aloo_paratha",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_292",
+    "user_id": "user5",
+    "recipe_id": "recipe_sabudana_khichdi",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_293",
+    "user_id": "user9",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.154Z"
+  },
+  {
+    "interaction_id": "int_294",
+    "user_id": "user7",
+    "recipe_id": "recipe_egg_curry",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.155Z"
+  },
+  {
+    "interaction_id": "int_295",
+    "user_id": "user4",
+    "recipe_id": "recipe_gulab_jamun",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.155Z"
+  },
+  {
+    "interaction_id": "int_296",
+    "user_id": "user9",
+    "recipe_id": "recipe_palak_paneer",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.155Z"
+  },
+  {
+    "interaction_id": "int_297",
+    "user_id": "user2",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.155Z"
+  },
+  {
+    "interaction_id": "int_298",
+    "user_id": "user1",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.155Z"
+  },
+  {
+    "interaction_id": "int_299",
+    "user_id": "user3",
+    "recipe_id": "recipe_aloo_paratha",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.155Z"
+  },
+  {
+    "interaction_id": "int_3",
+    "user_id": "user3",
+    "recipe_id": "recipe_sabudana_khichdi",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.141Z"
+  },
+  {
+    "interaction_id": "int_30",
+    "user_id": "user7",
+    "recipe_id": "recipe_jeera_rice",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_31",
+    "user_id": "user4",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_32",
+    "user_id": "user9",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_33",
+    "user_id": "user4",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_34",
+    "user_id": "user3",
+    "recipe_id": "recipe_puran_poli",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_35",
+    "user_id": "user6",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_36",
+    "user_id": "user2",
+    "recipe_id": "recipe_sabudana_khichdi",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_37",
+    "user_id": "user6",
+    "recipe_id": "recipe_misal_pav",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_38",
+    "user_id": "user1",
+    "recipe_id": "recipe_puran_poli",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_39",
+    "user_id": "user10",
+    "recipe_id": "recipe_jeera_rice",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_4",
+    "user_id": "user8",
+    "recipe_id": "recipe_chicken_biryani",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.141Z"
+  },
+  {
+    "interaction_id": "int_40",
+    "user_id": "user9",
+    "recipe_id": "recipe_gulab_jamun",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_41",
+    "user_id": "user8",
+    "recipe_id": "recipe_idli_sambhar",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_42",
+    "user_id": "user10",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.143Z"
+  },
+  {
+    "interaction_id": "int_43",
+    "user_id": "user9",
+    "recipe_id": "recipe_aloo_paratha",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_44",
+    "user_id": "user9",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_45",
+    "user_id": "user1",
+    "recipe_id": "recipe_matar_paneer",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_46",
+    "user_id": "user3",
+    "recipe_id": "recipe_misal_pav",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_47",
+    "user_id": "user7",
+    "recipe_id": "recipe_fish_curry",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_48",
+    "user_id": "user8",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_49",
+    "user_id": "user3",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_5",
+    "user_id": "user7",
+    "recipe_id": "recipe_paneer_butter_masala",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.141Z"
+  },
+  {
+    "interaction_id": "int_50",
+    "user_id": "user1",
+    "recipe_id": "recipe_dal_tadka",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_51",
+    "user_id": "user5",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_52",
+    "user_id": "user8",
+    "recipe_id": "recipe_misal_pav",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_53",
+    "user_id": "user1",
+    "recipe_id": "recipe_fish_curry",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_54",
+    "user_id": "user8",
+    "recipe_id": "recipe_aloo_paratha",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_55",
+    "user_id": "user8",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_56",
+    "user_id": "user4",
+    "recipe_id": "recipe_paneer_butter_masala",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_57",
+    "user_id": "user2",
+    "recipe_id": "recipe_misal_pav",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_58",
+    "user_id": "user9",
+    "recipe_id": "recipe_puran_poli",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_59",
+    "user_id": "user1",
+    "recipe_id": "recipe_puran_poli",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_6",
+    "user_id": "user6",
+    "recipe_id": "recipe_puran_poli",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.141Z"
+  },
+  {
+    "interaction_id": "int_60",
+    "user_id": "user6",
+    "recipe_id": "recipe_palak_paneer",
+    "type": "rating",
+    "rating": 5,
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_61",
+    "user_id": "user4",
+    "recipe_id": "recipe_chicken_biryani",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_62",
+    "user_id": "user1",
+    "recipe_id": "recipe_upma",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_63",
+    "user_id": "user6",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_64",
+    "user_id": "user5",
+    "recipe_id": "recipe_upma",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_65",
+    "user_id": "user9",
+    "recipe_id": "recipe_kheer",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.144Z"
+  },
+  {
+    "interaction_id": "int_66",
+    "user_id": "user5",
+    "recipe_id": "recipe_sabudana_khichdi",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_67",
+    "user_id": "user9",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": 5,
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_68",
+    "user_id": "user10",
+    "recipe_id": "recipe_egg_curry",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_69",
+    "user_id": "user7",
+    "recipe_id": "recipe_poha",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_7",
+    "user_id": "user8",
+    "recipe_id": "recipe_gulab_jamun",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.141Z"
+  },
+  {
+    "interaction_id": "int_70",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_shrikhand",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_71",
+    "user_id": "user7",
+    "recipe_id": "recipe_dal_tadka",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_72",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_kheer",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_73",
+    "user_id": "user4",
+    "recipe_id": "recipe_misal_pav",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_74",
+    "user_id": "user5",
+    "recipe_id": "recipe_chicken_biryani",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_75",
+    "user_id": "user5",
+    "recipe_id": "recipe_puran_poli",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_76",
+    "user_id": "user2",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_77",
+    "user_id": "user6",
+    "recipe_id": "recipe_sabudana_khichdi",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_78",
+    "user_id": "user3",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_79",
+    "user_id": "user10",
+    "recipe_id": "recipe_fish_curry",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_8",
+    "user_id": "user2",
+    "recipe_id": "recipe_chicken_biryani",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.141Z"
+  },
+  {
+    "interaction_id": "int_80",
+    "user_id": "user1",
+    "recipe_id": "recipe_upma",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_81",
+    "user_id": "user8",
+    "recipe_id": "recipe_upma",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_82",
+    "user_id": "user3",
+    "recipe_id": "recipe_puran_poli",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_83",
+    "user_id": "user1",
+    "recipe_id": "recipe_upma",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_84",
+    "user_id": "user9",
+    "recipe_id": "recipe_palak_paneer",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_85",
+    "user_id": "user3",
+    "recipe_id": "recipe_egg_curry",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "hard",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.145Z"
+  },
+  {
+    "interaction_id": "int_86",
+    "user_id": "user4",
+    "recipe_id": "recipe_puran_poli",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_87",
+    "user_id": "user8",
+    "recipe_id": "recipe_puran_poli",
+    "type": "rating",
+    "rating": 3,
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_88",
+    "user_id": "user6",
+    "recipe_id": "recipe_paneer_butter_masala",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_89",
+    "user_id": "user5",
+    "recipe_id": "recipe_sabudana_khichdi",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_9",
+    "user_id": "user4",
+    "recipe_id": "recipe_matar_paneer",
+    "type": "rating",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.142Z"
+  },
+  {
+    "interaction_id": "int_90",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_vada_pav",
+    "type": "rating",
+    "rating": 5,
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_91",
+    "user_id": "user9",
+    "recipe_id": "recipe_paneer_butter_masala",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_92",
+    "user_id": "user3",
+    "recipe_id": "recipe_poha",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_93",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_egg_curry",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "easy",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_94",
+    "user_id": "user5",
+    "recipe_id": "recipe_jeera_rice",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_95",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_chicken_biryani",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_96",
+    "user_id": "user_vedant",
+    "recipe_id": "recipe_veg_pulao",
+    "type": "cook_attempt",
+    "rating": "",
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_97",
+    "user_id": "user6",
+    "recipe_id": "recipe_chicken_biryani",
+    "type": "rating",
+    "rating": 4,
+    "difficulty_used": "medium",
+    "source": "mobile",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_98",
+    "user_id": "user7",
+    "recipe_id": "recipe_palak_paneer",
+    "type": "like",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  },
+  {
+    "interaction_id": "int_99",
+    "user_id": "user10",
+    "recipe_id": "recipe_fish_curry",
+    "type": "view",
+    "rating": "",
+    "difficulty_used": "hard",
+    "source": "web",
+    "created_at": "2025-11-21T05:49:10.146Z"
+  }
+]

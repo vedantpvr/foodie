@@ -1,6 +1,11 @@
 // export_etl.js
-// Exports Firestore collections and recipe subcollections to normalized CSV files.
-// Writes to ./output: recipe.csv, ingredients.csv, steps.csv, interactions.csv, users.csv
+// Exports Firestore collections and recipe subcollections to normalized CSV + JSON files.
+// Writes to ./output:
+//   recipe.csv, recipe.json
+//   ingredients.csv, ingredients.json
+//   steps.csv, steps.json
+//   interactions.csv, interactions.json
+//   users.csv, users.json
 
 const admin = require('firebase-admin');
 const fs = require('fs');
@@ -37,6 +42,14 @@ function toISO(ts) {
   }
 }
 
+// Helper: write JSON file
+function writeJson(filename, data) {
+  const fullPath = path.join(OUTPUT_DIR, filename);
+  fs.writeFileSync(fullPath, JSON.stringify(data, null, 2), 'utf8');
+  console.log(`📦 ${filename} written`);
+}
+
+// ----------------- RECIPES -----------------
 async function exportRecipes() {
   const recipeWriter = createCsvWriter({
     path: path.join(OUTPUT_DIR, 'recipe.csv'),
@@ -82,10 +95,15 @@ async function exportRecipes() {
 
   await recipeWriter.writeRecords(rows);
   console.log('✅ recipe.csv written');
+
+  // JSON export
+  writeJson('recipe.json', rows);
+
   // return list of recipe ids for next step
   return rows.map(r => r.recipe_id);
 }
 
+// ----------------- INGREDIENTS + STEPS -----------------
 async function exportIngredientsAndSteps(recipeIds) {
   const ingredientsWriter = createCsvWriter({
     path: path.join(OUTPUT_DIR, 'ingredients.csv'),
@@ -150,11 +168,14 @@ async function exportIngredientsAndSteps(recipeIds) {
 
   await ingredientsWriter.writeRecords(ingredientsRows);
   console.log('✅ ingredients.csv written');
+  writeJson('ingredients.json', ingredientsRows);
 
   await stepsWriter.writeRecords(stepsRows);
   console.log('✅ steps.csv written');
+  writeJson('steps.json', stepsRows);
 }
 
+// ----------------- INTERACTIONS -----------------
 async function exportInteractions() {
   const writer = createCsvWriter({
     path: path.join(OUTPUT_DIR, 'interactions.csv'),
@@ -188,8 +209,10 @@ async function exportInteractions() {
 
   await writer.writeRecords(rows);
   console.log('✅ interactions.csv written');
+  writeJson('interactions.json', rows);
 }
 
+// ----------------- USERS -----------------
 async function exportUsers() {
   const writer = createCsvWriter({
     path: path.join(OUTPUT_DIR, 'users.csv'),
@@ -217,8 +240,10 @@ async function exportUsers() {
 
   await writer.writeRecords(rows);
   console.log('✅ users.csv written');
+  writeJson('users.json', rows);
 }
 
+// ----------------- RUN ALL -----------------
 async function run() {
   try {
     ensureOutputDir();
